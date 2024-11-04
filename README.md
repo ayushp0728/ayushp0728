@@ -2,6 +2,7 @@
 
 <!--
 **ayushp0728/ayushp0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -9,4 +10,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C and improving at JS, TSX, and Python
 - 📫 How to reach me: https://www.linkedin.com/in/ayush-patel-466941242/
 - 😄 Pronouns: he/him
--->
