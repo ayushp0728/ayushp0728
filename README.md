@@ -7,6 +7,6 @@
 My name is Ayush Patel
 
 - 🔭 I’m currently working on full-stack projects that integrate AI!
-- 🌱 I’m currently learning C and improving at JS, TSX, and Python
+- 🌱 I’m currently learning C and improving at JS, TS, and Python
 - 📫 How to reach me: https://www.linkedin.com/in/ayush-patel-466941242/
 - 😄 Pronouns: he/him
